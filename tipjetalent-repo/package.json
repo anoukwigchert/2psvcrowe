@@ -1,4 +1,3 @@
-
 {
   "name": "tipjetalent",
   "version": "1.0.0",
@@ -8,9 +7,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+    "next": "^16.0.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.0",
